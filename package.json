@@ -1,0 +1,18 @@
+{
+  "name": "roshambo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "roshambo": "./bin/index.js"
+  }
+}
